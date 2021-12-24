@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @taramenon
+- 👀 I’m interested in everything AI, brain-computer interfaces, neurotechnology, and robotics.
+- 🌱 I’m currently a student at UCF studying neuroscience, biotechnology with coursework in CS and materials science.
+- 💞️ I’m looking to collaborate on any cool projects or research works!
+- 📫 Reach me at: taram@knights.ucf.edu
